@@ -22,6 +22,8 @@ const AddressData = () => {
     setAddressSymbol(tokenSymbol);
   }
 
+  /* Note */
+
   getAddressData();
 
   return (
