@@ -22,7 +22,7 @@ const AddressData = () => {
     setAddressSymbol(tokenSymbol);
   }
 
-  /* Note */
+  /* Note 2 */
 
   getAddressData();
 
