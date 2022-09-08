@@ -1,7 +1,7 @@
 https://6317aa1024607c051c2e223c--radiant-brioche-0b1f83.netlify.app/
 
 
-Lectura de datos de la blockchain de Ethereum y muestra de dichos datos en un frontend que fue desarrollado con React.js. Antes solo podía ver esos en una terminal de comandos, pero aprendí por mi cuenta cómo mostrar esos datos en un frontend.
+Lectura de datos de la blockchain de Ethereum y muestra de dichos datos en un frontend que fue desarrollado con React.js. Antes solo podía ver esos datos en una terminal de comandos, pero aprendí por mi cuenta cómo mostrar esos datos en un frontend.
 
 Stack de tecnologías: React.js, Ethers.js, Etherscan, Git y Netlify.
 
